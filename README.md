@@ -1,4 +1,4 @@
-# Generate Image and Video Captioning
+# Attention-Based Vision-Language Models for Captioning
 
 This repository implements the natural language representation of videos and images in the form of captions. The primary objective is to convert visual content from images or videos into meaningful text captions using deep learning models and techniques.
 
